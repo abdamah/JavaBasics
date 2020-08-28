@@ -18,6 +18,6 @@ public class Account {
 	
 	//static --only example
 	public static void display() {
-		System.out.println("From display static method");
+		System.out.println("From display() static method");
 	}
 }

@@ -15,7 +15,7 @@ public class Main {
 		
 		//calling static method
 		
-		//uising class name[recommended]
+		//using class name[recommended]
 		Account.display();
 		//or using reference [real time not good]
 		acc.display();
