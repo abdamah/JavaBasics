@@ -4,10 +4,10 @@ package com.riigsoft;
  * @author Abdallah
  * @linked https://www.linkedin.com/in/abdallahmahmud/
  * final keyword :
- * 1. Final Variables
- * 2. Final Methods
- * 3. Final Classes
- * 4. Final Reference
+ * 1.Final Classes
+ * 2.Final Variables
+ * 3.Final Methods
+ * 4.Final Reference
  **/
 
 //1. Final Classes
@@ -50,6 +50,8 @@ public class FinalKeyword {
     }
 
     public static void main(String[] args) {
+        //4. Final Reference
+
         //Final Reference can't be refer to another reference
         final var  keyword = new FinalKeyword();
 
